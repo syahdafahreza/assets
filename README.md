@@ -1,1 +1,1 @@
-# assets
+# Just the assets for my web projects
